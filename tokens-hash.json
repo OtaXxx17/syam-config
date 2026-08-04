@@ -1,0 +1,16 @@
+{
+  "v": 1,
+  "updated_at": 1785828034809,
+  "total": 1,
+  "tokens": [
+    {
+      "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
+      "owner": "8178882824",
+      "user": "duyzz",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-08-04T07:20:34.809Z"
+    }
+  ]
+}

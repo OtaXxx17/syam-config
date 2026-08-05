@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1785882495155,
-  "total": 5,
+  "updated_at": 1785889665648,
+  "total": 6,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -47,6 +47,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-08-04T22:28:15.154Z"
+    },
+    {
+      "token_hash": "3d25406a1b1219c8f805a882044acba86d4d5923dfe66d4bcdfd912264c6969e",
+      "owner": "8555659908",
+      "user": "jakicyber",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-08-05T00:27:45.647Z"
     }
   ]
 }

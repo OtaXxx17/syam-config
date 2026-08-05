@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1785892674707,
-  "total": 7,
+  "updated_at": 1785909262017,
+  "total": 8,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -65,6 +65,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-08-05T01:17:54.707Z"
+    },
+    {
+      "token_hash": "baa4702fb67ac7c74db9583348ef340499585bb48a675474c9ca1178fc9e71a0",
+      "owner": "1332863689",
+      "user": "donev",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-08-05T05:54:22.017Z"
     }
   ]
 }

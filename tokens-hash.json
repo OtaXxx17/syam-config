@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1786019486936,
-  "total": 12,
+  "updated_at": 1786028152980,
+  "total": 13,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -110,6 +110,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-08-06T12:31:26.935Z"
+    },
+    {
+      "token_hash": "71574b199a6d0e916142e25e5e680fbdc5c125667882958050fe729e0d33fbae",
+      "owner": "putzpw",
+      "user": "putzpw",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-08-06T14:55:52.979Z"
     }
   ]
 }

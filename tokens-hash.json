@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1786059564066,
-  "total": 16,
+  "updated_at": 1786081158346,
+  "total": 17,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -146,6 +146,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-08-06T23:39:24.066Z"
+    },
+    {
+      "token_hash": "800934a9ce0bd4fd06cffacef7d7acd701748e75f603666c684a5a337b935066",
+      "owner": "8758157328",
+      "user": "fanzz",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-08-07T05:39:18.346Z"
     }
   ]
 }

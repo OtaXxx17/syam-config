@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "updated_at": 1786201415791,
+  "updated_at": 1786201462315,
   "total": 26,
   "tokens": [
     {
@@ -230,12 +230,12 @@
     },
     {
       "token_hash": "1798e8599538a6dea25f2829bd41847913bb7dde39af87f9093cf6d3ae1838dd",
-      "owner": "8970470588",
+      "owner": "pizz",
       "user": "pizz",
       "role": "USER",
       "status": "active",
       "sc": "tele",
-      "created_at": "2026-08-08T15:03:35.791Z"
+      "created_at": "2026-08-08T15:04:22.315Z"
     }
   ]
 }

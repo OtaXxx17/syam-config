@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1786287031644,
-  "total": 32,
+  "updated_at": 1786296224109,
+  "total": 33,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -290,6 +290,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-08-09T14:50:31.644Z"
+    },
+    {
+      "token_hash": "3b2553abc6539d81a17e78ffb0274930b69c46d30f13ab7bed93a70912bc4ee5",
+      "owner": "8752537854",
+      "user": "ramzznyoba",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-08-09T17:23:44.109Z"
     }
   ]
 }

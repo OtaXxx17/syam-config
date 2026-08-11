@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1786458188771,
-  "total": 42,
+  "updated_at": 1786492009132,
+  "total": 43,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -378,6 +378,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-08-11T14:23:08.770Z"
+    },
+    {
+      "token_hash": "77b5c1482241788a4a979691372c90169c8693a372f551fe16cd74a2e6be94a6",
+      "owner": "7011057244",
+      "user": "darwin",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-08-11T23:46:49.132Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1786794696756,
-  "total": 54,
+  "updated_at": 1786797342959,
+  "total": 55,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -486,6 +486,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-08-15T11:51:36.756Z"
+    },
+    {
+      "token_hash": "97a81c14d2a13d4399f6dded75031eb27469890b845b81d570a497269a858598",
+      "owner": "1856431108",
+      "user": "dyrgha",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-08-15T12:35:42.959Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1786886133664,
-  "total": 59,
+  "updated_at": 1786898608161,
+  "total": 60,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -531,6 +531,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-08-16T13:15:33.664Z"
+    },
+    {
+      "token_hash": "8379d668ebf7c29345ef429e6954489486cecb87157ed811610e7940d26c391d",
+      "owner": "8532687740",
+      "user": "danzz_x",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-08-16T16:43:28.156Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1786973227687,
-  "total": 67,
+  "updated_at": 1786980012767,
+  "total": 68,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -603,6 +603,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-08-17T13:27:07.687Z"
+    },
+    {
+      "token_hash": "f4d6bf93e475edb259e4c05cedba2812351c9d8df899228142f250fc71479f97",
+      "owner": "6860447741",
+      "user": "pasax",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-08-17T15:20:12.766Z"
     }
   ]
 }

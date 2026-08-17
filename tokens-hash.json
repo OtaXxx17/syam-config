@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1786972649113,
-  "total": 66,
+  "updated_at": 1786973227687,
+  "total": 67,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -594,6 +594,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-08-17T13:17:29.112Z"
+    },
+    {
+      "token_hash": "86dd39934e298f5a9cd5a46c98225e53841eb841232fc31039577650a0156d89",
+      "owner": "rikk",
+      "user": "rikk",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-08-17T13:27:07.687Z"
     }
   ]
 }

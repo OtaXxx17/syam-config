@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1786948090793,
-  "total": 63,
+  "updated_at": 1786951987172,
+  "total": 64,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -567,6 +567,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-08-17T06:28:10.793Z"
+    },
+    {
+      "token_hash": "e380799a14611c6cf9a460033000d6a5c3c3127ac821cfd630d77ab5a51965fc",
+      "owner": "8484518850",
+      "user": "dentric",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-08-17T07:33:07.172Z"
     }
   ]
 }

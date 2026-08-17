@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1786898608161,
-  "total": 60,
+  "updated_at": 1786943068701,
+  "total": 61,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -540,6 +540,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-08-16T16:43:28.156Z"
+    },
+    {
+      "token_hash": "cfe224094953701401842655f2fc7f29fb4e5e5222f714c179b2dfd58c8990a4",
+      "owner": "8794948880",
+      "user": "rakha",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-08-17T05:04:28.701Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1787131728768,
-  "total": 79,
+  "updated_at": 1787178716512,
+  "total": 80,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -711,6 +711,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-08-19T09:28:48.767Z"
+    },
+    {
+      "token_hash": "7cc355ef537b514378b94c9c68561caa9ffba929fdf614e98217b62a047ea9d8",
+      "owner": "TheGhostB0t",
+      "user": "theghostb0t",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-08-19T22:31:56.511Z"
     }
   ]
 }

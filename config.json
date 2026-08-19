@@ -2,7 +2,7 @@
   "app_name": "SYAM",
   "version": "1.0.0",
   "base_url": "https://syam.otax.fun",
-  "rat_base_url": "https://syamrat.otax.fun",
+  "rat_base_url": "https://syam.otax.fun/rat",
   "ws_port": 3001,
   "health_path": "/health"
 }

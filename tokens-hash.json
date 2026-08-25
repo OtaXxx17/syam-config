@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1787647919846,
-  "total": 103,
+  "updated_at": 1787655883772,
+  "total": 104,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -927,6 +927,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-08-25T08:51:59.846Z"
+    },
+    {
+      "token_hash": "0a7ab12eab2b1fb8b085b46f299fe38f5c566960c70a7a9754aa63c8cb6dd968",
+      "owner": "8069649387",
+      "user": "celmarket",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-08-25T11:04:43.772Z"
     }
   ]
 }

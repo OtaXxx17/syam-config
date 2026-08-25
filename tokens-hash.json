@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1787675468284,
-  "total": 105,
+  "updated_at": 1787686121786,
+  "total": 106,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -945,6 +945,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-08-25T16:31:08.283Z"
+    },
+    {
+      "token_hash": "8420247f6d006525d676195b151f5f9891f5a0cf4c13f384a7dd3a958d0dadaf",
+      "owner": "8776029253",
+      "user": "jambu",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-08-25T19:28:41.785Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1787686121786,
-  "total": 106,
+  "updated_at": 1787718331388,
+  "total": 107,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -954,6 +954,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-08-25T19:28:41.785Z"
+    },
+    {
+      "token_hash": "57452eea9e79c2b595fa97823bf26f6623158ecba084077a4906f09c542c42e2",
+      "owner": "6049055633",
+      "user": "rizxiter",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-08-26T04:25:31.387Z"
     }
   ]
 }

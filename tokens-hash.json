@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1787826632388,
-  "total": 120,
+  "updated_at": 1787834343714,
+  "total": 121,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -1080,6 +1080,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-08-27T10:30:32.388Z"
+    },
+    {
+      "token_hash": "74d54d42445cc2d1b829b764a191e8ed7e79679714451e4c527cb1d3c7b559b4",
+      "owner": "1607477243",
+      "user": "tayo",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-08-27T12:39:03.714Z"
     }
   ]
 }

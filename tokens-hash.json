@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1787955437825,
-  "total": 134,
+  "updated_at": 1788004624440,
+  "total": 135,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -1206,6 +1206,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-08-28T22:17:17.825Z"
+    },
+    {
+      "token_hash": "e5b889a07d6d7f301847ed81087ddaa3c7ac3378583ffa86f6ea58a375ffc58e",
+      "owner": "rafxtet",
+      "user": "rafxtet",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-08-29T11:57:04.440Z"
     }
   ]
 }

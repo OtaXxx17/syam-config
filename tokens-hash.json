@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1788036853716,
-  "total": 146,
+  "updated_at": 1788047555793,
+  "total": 147,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -1314,6 +1314,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-08-29T20:54:13.715Z"
+    },
+    {
+      "token_hash": "58375784f18f69be6ba38241b06fdab2b1ca669604064a96c84030877e262e68",
+      "owner": "8061324770",
+      "user": "zikri",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-08-29T23:52:35.793Z"
     }
   ]
 }

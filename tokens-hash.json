@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1788129153728,
-  "total": 162,
+  "updated_at": 1788139631389,
+  "total": 163,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -1458,6 +1458,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-08-30T22:32:33.727Z"
+    },
+    {
+      "token_hash": "fb5e011718c0a96d8a4033b07dcb7277a7d3f8ff3a65c9a410906c1acadb5dcd",
+      "owner": "7491100401",
+      "user": "juanda",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-08-31T01:27:11.388Z"
     }
   ]
 }

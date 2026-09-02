@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1788352361774,
-  "total": 188,
+  "updated_at": 1788354798425,
+  "total": 189,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -1692,6 +1692,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-02T12:32:41.774Z"
+    },
+    {
+      "token_hash": "40fad0def268e0926a11e92b44a4b10d957b9f2db6cc3cac0f7ddbe350827998",
+      "owner": "7808915464",
+      "user": "yanzzoffcial",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-02T13:13:18.424Z"
     }
   ]
 }

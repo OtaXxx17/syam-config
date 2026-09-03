@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1788435075643,
-  "total": 195,
+  "updated_at": 1788435123812,
+  "total": 196,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -1755,6 +1755,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-03T11:31:15.642Z"
+    },
+    {
+      "token_hash": "1e1fbd8a0235ea0db95b2a4131e2d3a0c12f35c81b5d5599d711310643f1be6c",
+      "owner": "8655813113",
+      "user": "rizzstore",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-03T11:32:03.812Z"
     }
   ]
 }

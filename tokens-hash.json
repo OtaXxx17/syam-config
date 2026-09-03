@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1788395165367,
-  "total": 193,
+  "updated_at": 1788397471781,
+  "total": 194,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -1737,6 +1737,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-03T00:26:05.366Z"
+    },
+    {
+      "token_hash": "0880bab2a633c96aee09e26bbd19f7da8644c5ec8867ac03bc8cbf39d7a1d33a",
+      "owner": "8288949958",
+      "user": "muhammadrezamaulana",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-03T01:04:31.781Z"
     }
   ]
 }

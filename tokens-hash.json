@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1788501292237,
-  "total": 213,
+  "updated_at": 1788503142896,
+  "total": 214,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -1917,6 +1917,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-04T05:54:52.236Z"
+    },
+    {
+      "token_hash": "080e735c143f77635cfabb975cfacb2328406c180436724a372d63eb3e9e686c",
+      "owner": "8559823758",
+      "user": "iting",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-04T06:25:42.895Z"
     }
   ]
 }

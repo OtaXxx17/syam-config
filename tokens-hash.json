@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1788475396404,
-  "total": 211,
+  "updated_at": 1788484241673,
+  "total": 212,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -1899,6 +1899,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-03T22:43:16.404Z"
+    },
+    {
+      "token_hash": "22d7cb524d274e08ce4d9a5c631cc1229985e547a60dd1afae98620d09b5b964",
+      "owner": "8306192049",
+      "user": "diellx",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-04T01:10:41.673Z"
     }
   ]
 }

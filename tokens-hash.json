@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1788518121148,
-  "total": 215,
+  "updated_at": 1788521236492,
+  "total": 216,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -1935,6 +1935,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-04T10:35:21.148Z"
+    },
+    {
+      "token_hash": "9aec0526c340f95e4f30d4b23afb1e843628b78321941c0d8a0de036daa8ccf4",
+      "owner": "8805373330",
+      "user": "algaa",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-04T11:27:16.491Z"
     }
   ]
 }

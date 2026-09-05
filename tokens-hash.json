@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1788603961125,
-  "total": 227,
+  "updated_at": 1788604206959,
+  "total": 228,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -2043,6 +2043,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-05T10:26:01.124Z"
+    },
+    {
+      "token_hash": "7de9aad306c69692c6c1ce293c006b0034dea0065193afe89b659212bf78fee9",
+      "owner": "7139677051",
+      "user": "ciel",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-05T10:30:06.958Z"
     }
   ]
 }

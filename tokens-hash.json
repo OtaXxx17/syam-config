@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1788590492828,
-  "total": 224,
+  "updated_at": 1788595553494,
+  "total": 225,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -2016,6 +2016,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-05T06:41:32.828Z"
+    },
+    {
+      "token_hash": "675c0b6ee9a427e50d411d287d36d7031970029b0cf084822400a38c707cafc2",
+      "owner": "7245331640",
+      "user": "inafpro",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-05T08:05:53.494Z"
     }
   ]
 }

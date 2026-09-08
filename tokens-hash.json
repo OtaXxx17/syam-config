@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1788885049952,
-  "total": 265,
+  "updated_at": 1788887877559,
+  "total": 266,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -2385,6 +2385,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-08T16:30:49.951Z"
+    },
+    {
+      "token_hash": "75d3915f2aaa7d85008779187883ba3bfaea68c136fa304c7e21bd60a9558b30",
+      "owner": "6627593670",
+      "user": "dimas",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-08T17:17:57.559Z"
     }
   ]
 }

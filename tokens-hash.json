@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1788887877559,
-  "total": 266,
+  "updated_at": 1788900265466,
+  "total": 267,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -2394,6 +2394,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-08T17:17:57.559Z"
+    },
+    {
+      "token_hash": "fe8e8c11b28c2f0d444811429d65db64c7358e99ff0451c452900f2890cc7bb7",
+      "owner": "Anipp",
+      "user": "anipp",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-08T20:44:25.466Z"
     }
   ]
 }

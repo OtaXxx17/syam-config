@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1789036889229,
-  "total": 283,
+  "updated_at": 1789047459621,
+  "total": 284,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -2547,6 +2547,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-10T10:41:29.229Z"
+    },
+    {
+      "token_hash": "b182fe067c0e8d372c54942d5efe1d6bc29498958a3e8c9f14a06299a630fcb2",
+      "owner": "8805315053",
+      "user": "yooxoffc",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-10T13:37:39.621Z"
     }
   ]
 }

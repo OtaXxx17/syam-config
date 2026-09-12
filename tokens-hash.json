@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1789210990107,
-  "total": 312,
+  "updated_at": 1789211355921,
+  "total": 313,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -2808,6 +2808,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-12T11:03:10.107Z"
+    },
+    {
+      "token_hash": "d0e480985fd697a161b761752b4f8d70313b2259bc3aad3168c7b34322b3d3f6",
+      "owner": "7927796117",
+      "user": "nezzha",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-12T11:09:15.921Z"
     }
   ]
 }

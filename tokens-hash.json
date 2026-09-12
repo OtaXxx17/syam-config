@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1789215486462,
-  "total": 315,
+  "updated_at": 1789215494554,
+  "total": 316,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -2835,6 +2835,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-12T12:18:06.462Z"
+    },
+    {
+      "token_hash": "bde7e50e75efd93b22909a8d33599b27b0fe607cb7c32a8507250084eeefb0b6",
+      "owner": "8506960406",
+      "user": "zyrex",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-12T12:18:14.554Z"
     }
   ]
 }

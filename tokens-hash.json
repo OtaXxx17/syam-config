@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1789241478736,
-  "total": 320,
+  "updated_at": 1789243285286,
+  "total": 321,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -2880,6 +2880,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-12T19:31:18.735Z"
+    },
+    {
+      "token_hash": "80ce47e5b8848c2b03577cd57bbc07aea256fdece70e6e1fafdecc003055476b",
+      "owner": "1203081545",
+      "user": "putraganteng",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-12T20:01:25.285Z"
     }
   ]
 }

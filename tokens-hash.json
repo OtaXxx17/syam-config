@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1789237343603,
-  "total": 319,
+  "updated_at": 1789241478736,
+  "total": 320,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -2871,6 +2871,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-12T18:22:23.602Z"
+    },
+    {
+      "token_hash": "c9a47b4548b1d414e3ff4317dd1e1999c1318a62f09c7c188e66d323a6bcae74",
+      "owner": "7095752872",
+      "user": "renzi",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-12T19:31:18.735Z"
     }
   ]
 }

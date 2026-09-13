@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1789279057924,
-  "total": 326,
+  "updated_at": 1789280525444,
+  "total": 327,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -2934,6 +2934,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-13T05:57:37.924Z"
+    },
+    {
+      "token_hash": "48556e4d6a1b71c2f269adba1fc0f45dc531dd0363cee6b35bfab076d0f1f9cb",
+      "owner": "8999765130",
+      "user": "erlland",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-13T06:22:05.444Z"
     }
   ]
 }

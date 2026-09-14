@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1789352022670,
-  "total": 338,
+  "updated_at": 1789369784963,
+  "total": 339,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -3042,6 +3042,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-14T02:13:42.670Z"
+    },
+    {
+      "token_hash": "09a4a7179b29de2d0649e99d88f7b8b203f2ecc60145c6fa67f98b458e4ce4eb",
+      "owner": "7491100401",
+      "user": "rizkyp",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-14T07:09:44.962Z"
     }
   ]
 }

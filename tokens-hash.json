@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1789392729245,
-  "total": 345,
+  "updated_at": 1789392804305,
+  "total": 346,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -3105,6 +3105,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-14T13:32:09.245Z"
+    },
+    {
+      "token_hash": "ad3eb4c2f56a71838816e7fdabb29f63484f874bc788992c8da36e5839ba8261",
+      "owner": "Radityaa",
+      "user": "radityaa",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-14T13:33:24.305Z"
     }
   ]
 }

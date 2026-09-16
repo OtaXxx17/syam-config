@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1789547010014,
-  "total": 371,
+  "updated_at": 1789548143080,
+  "total": 372,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -3339,6 +3339,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-16T08:23:30.014Z"
+    },
+    {
+      "token_hash": "d790f25225e02e6e57c9bc394421967799c621acd3a537b643840b13e6ea5e9e",
+      "owner": "7320372302",
+      "user": "4rull",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-16T08:42:23.080Z"
     }
   ]
 }

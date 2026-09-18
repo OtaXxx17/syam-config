@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1789703235710,
-  "total": 391,
+  "updated_at": 1789715230507,
+  "total": 392,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -3519,6 +3519,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-18T03:47:15.710Z"
+    },
+    {
+      "token_hash": "f5fd8a8aebeee4c28fea2b3f98c47dd9fb1a09324bea154c3e98a28162beae2c",
+      "owner": "8273278585",
+      "user": "fikzbug",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-18T07:07:10.507Z"
     }
   ]
 }

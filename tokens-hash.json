@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1789738520395,
-  "total": 398,
+  "updated_at": 1789739289416,
+  "total": 399,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -3582,6 +3582,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-18T13:35:20.395Z"
+    },
+    {
+      "token_hash": "05a93a39bcc1cc59c43bbec45c1e776c9ee8a74d2274f4990acfc69db8e74e76",
+      "owner": "8854519804",
+      "user": "ceomaher",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-18T13:48:09.416Z"
     }
   ]
 }

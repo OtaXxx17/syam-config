@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1790169045760,
-  "total": 452,
+  "updated_at": 1790177874808,
+  "total": 453,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -4068,6 +4068,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-23T13:10:45.760Z"
+    },
+    {
+      "token_hash": "309f1be63f81d3063057726c14d78044aa2f3aa63e506e96e7759309569f4207",
+      "owner": "8878784716",
+      "user": "angga72",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-23T15:37:54.808Z"
     }
   ]
 }

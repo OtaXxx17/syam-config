@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1790153982366,
-  "total": 441,
+  "updated_at": 1790154010055,
+  "total": 442,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -3969,6 +3969,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-23T08:59:42.366Z"
+    },
+    {
+      "token_hash": "14872742a2aa76e368557c839f11dd0a76a02ebce94b5bf29d40798f71408f77",
+      "owner": "zehf",
+      "user": "zehf",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-23T09:00:10.055Z"
     }
   ]
 }

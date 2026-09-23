@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1790168293879,
-  "total": 450,
+  "updated_at": 1790168370157,
+  "total": 451,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -4050,6 +4050,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-23T12:58:13.879Z"
+    },
+    {
+      "token_hash": "29e5ef621bad816601f7202b6f9a98d96587d43ea24e7b6cccf8cc5a2a9a9968",
+      "owner": "Riogz12",
+      "user": "riogz12",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-23T12:59:30.157Z"
     }
   ]
 }

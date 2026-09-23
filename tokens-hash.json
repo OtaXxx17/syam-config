@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1790150400259,
-  "total": 439,
+  "updated_at": 1790151792574,
+  "total": 440,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -3951,6 +3951,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-23T08:00:00.259Z"
+    },
+    {
+      "token_hash": "f2b0b9e04e72fb6242ef6bf2b17e8514e516b21aff07bdaaab3a8a8359df2583",
+      "owner": "Cimera",
+      "user": "cimera",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-23T08:23:12.574Z"
     }
   ]
 }

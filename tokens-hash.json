@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1790166243836,
-  "total": 449,
+  "updated_at": 1790168293879,
+  "total": 450,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -4041,6 +4041,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-23T12:24:03.836Z"
+    },
+    {
+      "token_hash": "a58b91acdcc4b4f8975e022f135bead272a16ece8b8958c3d48d9fceb2216cdf",
+      "owner": "8894998273",
+      "user": "haruka",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-23T12:58:13.879Z"
     }
   ]
 }

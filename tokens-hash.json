@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1790151792574,
-  "total": 440,
+  "updated_at": 1790153982366,
+  "total": 441,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -3960,6 +3960,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-23T08:23:12.574Z"
+    },
+    {
+      "token_hash": "07ac2dc3ecdc43888514eb476d915020576a09b61ecefa63a2e4a6eb466d80f3",
+      "owner": "1685020754",
+      "user": "gloria",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-23T08:59:42.366Z"
     }
   ]
 }

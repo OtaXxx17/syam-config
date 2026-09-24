@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1790214807571,
-  "total": 461,
+  "updated_at": 1790226810630,
+  "total": 462,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -4149,6 +4149,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-24T01:53:27.571Z"
+    },
+    {
+      "token_hash": "29a0eac5a9c718597cd2cd079beecbfc82806f2900b4eb657ac07b640d4adc64",
+      "owner": "7887269326",
+      "user": "ripp",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-24T05:13:30.630Z"
     }
   ]
 }

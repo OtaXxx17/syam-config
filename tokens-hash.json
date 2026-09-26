@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1790420161250,
-  "total": 508,
+  "updated_at": 1790421646580,
+  "total": 509,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -4572,6 +4572,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-26T10:56:01.250Z"
+    },
+    {
+      "token_hash": "a51cc0e43dcaaf4c65e61ade7527953ae30837643c30c4c23230658e38aed0f2",
+      "owner": "casillas",
+      "user": "casillas",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-26T11:20:46.580Z"
     }
   ]
 }

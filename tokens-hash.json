@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1790499217058,
-  "total": 546,
+  "updated_at": 1790501195510,
+  "total": 547,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -4914,6 +4914,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-27T08:53:37.058Z"
+    },
+    {
+      "token_hash": "257dc591d5b2ef1a1b0582e6445308155fc3a6e0c3aa4aa2dd3f55a9ab92c88c",
+      "owner": "7872825619",
+      "user": "haikal1",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-27T09:26:35.510Z"
     }
   ]
 }

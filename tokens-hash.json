@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1790472547245,
-  "total": 532,
+  "updated_at": 1790475357001,
+  "total": 533,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -4788,6 +4788,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-27T01:29:07.245Z"
+    },
+    {
+      "token_hash": "fc973d182a9c1cd7e4ea14e9ef0281065099e3816b56f0c3ff39b7905298fed8",
+      "owner": "8228470299",
+      "user": "fadlan",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-27T02:15:57.000Z"
     }
   ]
 }

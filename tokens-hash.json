@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1790505711840,
-  "total": 550,
+  "updated_at": 1790507302680,
+  "total": 551,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -4950,6 +4950,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-27T10:41:51.840Z"
+    },
+    {
+      "token_hash": "f1a2961c11150c0eddd0fdce57a93962c2c83c25627a7128b637f3805538f95d",
+      "owner": "KING_DARK",
+      "user": "king_dark",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-27T11:08:22.680Z"
     }
   ]
 }

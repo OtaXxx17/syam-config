@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1790467386876,
-  "total": 527,
+  "updated_at": 1790468296095,
+  "total": 528,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -4743,6 +4743,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-27T00:03:06.876Z"
+    },
+    {
+      "token_hash": "efccd487393d89c473669ff1423ca686ac0091cab8d62403cf5916f6ae023f91",
+      "owner": "bara",
+      "user": "bara",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-27T00:18:16.095Z"
     }
   ]
 }

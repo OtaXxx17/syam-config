@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1790596984525,
-  "total": 573,
+  "updated_at": 1790599324507,
+  "total": 574,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -5157,6 +5157,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-28T12:03:04.525Z"
+    },
+    {
+      "token_hash": "4c87d36bb04bf73f298154429eb1100fc240f96e052a3952214bcdec834daed2",
+      "owner": "8973020641",
+      "user": "exsam",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-28T12:42:04.507Z"
     }
   ]
 }

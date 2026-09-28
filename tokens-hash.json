@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1790581569693,
-  "total": 566,
+  "updated_at": 1790581972552,
+  "total": 567,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -5094,6 +5094,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-28T07:46:09.693Z"
+    },
+    {
+      "token_hash": "01f13123358c12489d26008e4b9befa394ece533fac882e4612e6b4fd3be75b9",
+      "owner": "7569195272",
+      "user": "alfredo_user1",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-28T07:52:52.552Z"
     }
   ]
 }

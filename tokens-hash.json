@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1790599324507,
-  "total": 574,
+  "updated_at": 1790602178447,
+  "total": 575,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -5166,6 +5166,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-28T12:42:04.507Z"
+    },
+    {
+      "token_hash": "22cdf50f1158d1836c08cc82205ecff1a2459ff1e230dabf8c9edf651b43ba92",
+      "owner": "7499484004",
+      "user": "dikzzstore",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-28T13:29:38.446Z"
     }
   ]
 }

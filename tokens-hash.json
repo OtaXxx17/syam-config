@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1790581972552,
-  "total": 567,
+  "updated_at": 1790582604485,
+  "total": 568,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -5103,6 +5103,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-28T07:52:52.552Z"
+    },
+    {
+      "token_hash": "ff32cd2225e4c25b96c488cda54f071aa4ec185273303a64a545f8e04a7965e7",
+      "owner": "dimjie",
+      "user": "dimjie",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-28T08:03:24.485Z"
     }
   ]
 }

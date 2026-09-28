@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1790606234706,
-  "total": 577,
+  "updated_at": 1790610048305,
+  "total": 578,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -5193,6 +5193,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-28T14:37:14.706Z"
+    },
+    {
+      "token_hash": "39d0281445f44af615f7977af77a7f2bb46a1d9fa288c01f438760f4471ccb68",
+      "owner": "6712546790",
+      "user": "herilynxxie",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-28T15:40:48.305Z"
     }
   ]
 }

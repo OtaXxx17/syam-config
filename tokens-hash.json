@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1790662121251,
-  "total": 585,
+  "updated_at": 1790663976518,
+  "total": 586,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -5265,6 +5265,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-29T06:08:41.251Z"
+    },
+    {
+      "token_hash": "3e239ca3e95c92b224a428594221f35ee1b45f7fafd63b49ed56fe6dc53e5f90",
+      "owner": "8788730038",
+      "user": "syaka",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-29T06:39:36.517Z"
     }
   ]
 }

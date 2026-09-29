@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1790663976518,
-  "total": 586,
+  "updated_at": 1790669133851,
+  "total": 587,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -5274,6 +5274,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-29T06:39:36.517Z"
+    },
+    {
+      "token_hash": "52343a7ad894b65abb2e00085b4946bac1a90a7972afd92f577e8ebaa2d5ace5",
+      "owner": "7592397102",
+      "user": "nafzzx",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-29T08:05:33.851Z"
     }
   ]
 }

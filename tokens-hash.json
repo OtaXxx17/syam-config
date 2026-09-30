@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1790780034878,
-  "total": 616,
+  "updated_at": 1790783591019,
+  "total": 617,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -5544,6 +5544,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-30T14:53:54.878Z"
+    },
+    {
+      "token_hash": "9ae6d94ac95ebcf731ed1d3893038c52b0e477e0b4c03c330792ccbd9fefa9e3",
+      "owner": "7472996200",
+      "user": "venaro",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-30T15:53:11.019Z"
     }
   ]
 }

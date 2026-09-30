@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1790758470142,
-  "total": 604,
+  "updated_at": 1790762603192,
+  "total": 605,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -5436,6 +5436,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-30T08:54:30.142Z"
+    },
+    {
+      "token_hash": "7f23cb977f9f03fc3e392e6de7b35048561e02e8a2a5853aa0a50166e768dbdb",
+      "owner": "7596379539",
+      "user": "kenzmod",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-30T10:03:23.191Z"
     }
   ]
 }

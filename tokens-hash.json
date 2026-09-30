@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1790772659201,
-  "total": 611,
+  "updated_at": 1790774165700,
+  "total": 612,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -5499,6 +5499,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-09-30T12:50:59.201Z"
+    },
+    {
+      "token_hash": "2cc796ab294e70736da7facde2a4bbe0bff2c71b73f404f4133c72ee3aa59962",
+      "owner": "8904578205",
+      "user": "bianxmode",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-09-30T13:16:05.700Z"
     }
   ]
 }

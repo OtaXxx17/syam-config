@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1790970011698,
-  "total": 672,
+  "updated_at": 1790974853260,
+  "total": 673,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -6048,6 +6048,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-10-02T19:40:11.698Z"
+    },
+    {
+      "token_hash": "3283edc50621371bbe392b79ec12a9002d56a396a38cd0c4b8a3024283e1a765",
+      "owner": "8764176804",
+      "user": "arill",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-10-02T21:00:53.260Z"
     }
   ]
 }

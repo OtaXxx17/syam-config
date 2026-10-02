@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1790956255574,
-  "total": 666,
+  "updated_at": 1790961514921,
+  "total": 667,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -5994,6 +5994,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-10-02T15:50:55.574Z"
+    },
+    {
+      "token_hash": "48edbd5df7349d285b3ea30e63b5ab2fc1d6b22887eb5f66acf54327047e74af",
+      "owner": "8790440527",
+      "user": "waanbiepw",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-10-02T17:18:34.921Z"
     }
   ]
 }

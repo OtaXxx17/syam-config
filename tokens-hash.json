@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1791019241418,
-  "total": 689,
+  "updated_at": 1791019835661,
+  "total": 690,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -6201,6 +6201,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-10-03T09:20:41.418Z"
+    },
+    {
+      "token_hash": "f54e7ac9cc04c2daa07fc2545b864071f6db5b34543066b7a2eae5b1c33c2447",
+      "owner": "7835908852",
+      "user": "ridho55",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-10-03T09:30:35.661Z"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "v": 1,
-  "updated_at": 1791126039330,
-  "total": 724,
+  "updated_at": 1791127505907,
+  "total": 725,
   "tokens": [
     {
       "token_hash": "aba64741cfcd162fbd9d5dee4b81f8fac2906ed6f12c5283f241dd4f5d9cb423",
@@ -6516,6 +6516,15 @@
       "status": "active",
       "sc": "tele",
       "created_at": "2026-10-04T15:00:39.330Z"
+    },
+    {
+      "token_hash": "e7c303b238143bd1ac73eb5731143c526803927bd33b6a977b364f38f3b03b23",
+      "owner": "6863258183",
+      "user": "yannetanol",
+      "role": "USER",
+      "status": "active",
+      "sc": "tele",
+      "created_at": "2026-10-04T15:25:05.907Z"
     }
   ]
 }
